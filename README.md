@@ -15,6 +15,8 @@ The dataset is loaded by the model as a single file, containing the training and
 are RGB 256x256x3 and scaled to [0., 1.0].
 
 ### Package requirements:
+Versions of the softwares used in the implementation:
+
 - Python = 3.7.6
 - Keras = 2.3.1
 - Tensorflow = 2.20
