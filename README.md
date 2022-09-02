@@ -14,7 +14,9 @@ link to [paper](https://arxiv.org/abs/2208.03319)
 
 ### Link to dataset
 
-link to the dataset used in this article: [dataset](https://www.mediafire.com/file/sx8qusap58p7ulm/UWData256_2K2/file)
+link to the dataset used in this article: 
+- [training dataset](https://www.mediafire.com/file/sx8qusap58p7ulm/UWData256_2K2/file)
+- [test dataset](https://www.mediafire.com/file/z5qx67kwyy42cia/UWTest256X/file)
 
 
 ### Description of the software:
